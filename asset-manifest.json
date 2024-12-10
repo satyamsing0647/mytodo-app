@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/satyamsing0647/mytodo-app/static/css/main.f2ee8cb3.css",
+    "main.js": "/satyamsing0647/mytodo-app/static/js/main.9935d574.js",
+    "static/js/156.9e10d69c.chunk.js": "/satyamsing0647/mytodo-app/static/js/156.9e10d69c.chunk.js",
+    "static/media/logo.svg": "/satyamsing0647/mytodo-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/satyamsing0647/mytodo-app/index.html",
+    "main.f2ee8cb3.css.map": "/satyamsing0647/mytodo-app/static/css/main.f2ee8cb3.css.map",
+    "main.9935d574.js.map": "/satyamsing0647/mytodo-app/static/js/main.9935d574.js.map",
+    "156.9e10d69c.chunk.js.map": "/satyamsing0647/mytodo-app/static/js/156.9e10d69c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ee8cb3.css",
+    "static/js/main.9935d574.js"
+  ]
+}
